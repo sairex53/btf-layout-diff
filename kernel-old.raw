@@ -1,0 +1,5 @@
+[1] INT 'unsigned int' size=4 bits_offset=0 nr_bits=32 encoding=(none)
+[2] STRUCT 'task_struct' size=24 vlen=3
+	'pid' type_id=1 bits_offset=0
+	'tgid' type_id=1 bits_offset=32
+	'flags' type_id=1 bits_offset=64
